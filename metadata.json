@@ -1,0 +1,6 @@
+{
+  "name": "Student Assignment Manager",
+  "description": "Modern college assignment management system for students and teachers to track deadlines, submit files, and evaluate academic assignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
